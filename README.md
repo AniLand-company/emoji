@@ -18,5 +18,8 @@
 # 🖼️ Скришоты
 
 ---
-![Uploading image.png…]()
-
+![/emoji](https://github.com/user-attachments/assets/749f5998-859a-4d45-9558-073983be9c03)
+---
+![image](https://github.com/user-attachments/assets/a59469f9-4fb0-4e4f-8bcd-1c17d9578ef5)
+---
+![image](https://github.com/user-attachments/assets/74917f87-bf51-4225-a1d8-581c2d3c9cb0)
