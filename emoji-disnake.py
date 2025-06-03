@@ -30,7 +30,6 @@ class EmojiAddView(disnake.ui.View):
         button.disabled = True
         await inter.response.edit_message(view=self)
         
-        # Проверяем лимиты для анимированных и обычных эмодзи отдельно
         if self.is_animated:
             animated_count = len([e for e in self.guild.emojis if e.animated])
             if animated_count >= self.guild.emoji_limit:
